@@ -1,0 +1,4 @@
+﻿  WindowsProject2lab.cpp
+C:\Users\Мария\Desktop\СПРБП (Боровской)\WindowsProject2lab\WindowsProject2lab.cpp(64,36): warning C4100: lpCmdLine: неиспользованный формальный параметр
+C:\Users\Мария\Desktop\СПРБП (Боровской)\WindowsProject2lab\WindowsProject2lab.cpp(64,15): warning C4100: hPrevInstance: неиспользованный формальный параметр
+  WindowsProject2lab.vcxproj -> C:\Users\Мария\Desktop\СПРБП (Боровской)\WindowsProject2lab\Debug\WindowsProject2lab.exe
